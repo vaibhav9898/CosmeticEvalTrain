@@ -1,0 +1,15 @@
+python train.py \
+    --gpu_id "0" \
+    --train_file_path "TSV_Files/train.tsv"\
+    --val_file_path "TSV_Files/test.tsv"\
+    --base_ckpt_path "model_checkpoints"\
+    --ckpt_tau_path "Tau.pth"\
+    --ckpt_accuracy_path "Accuracy.pth"\
+    --final_model_path "Last.pth"\
+    --batch_size "8"\
+    --model_type "swin" \
+    --lr_start "1e-5"\
+    --lr_end "1e-6"\
+    --scheduler_reqd 1\
+    --weight_decay "1"\
+    --nep 5

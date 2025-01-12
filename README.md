@@ -25,4 +25,4 @@ keypoints -> Foo1(Image)
 class value -> Foo2(Image, Final_Keypoints)
 
 
-
+Checkpoints are available at https://iitbacin-my.sharepoint.com/:f:/g/personal/23m1062_iitb_ac_in/EmwTlpzi5yxNsbR58JPiJtUBMmhg0yT6QlzPki8_tZjC1A?e=VQKHFX

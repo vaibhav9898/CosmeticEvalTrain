@@ -26,3 +26,4 @@ class value -> Foo2(Image, Final_Keypoints)
 
 
 Checkpoints are available at https://iitbacin-my.sharepoint.com/:f:/g/personal/23m1062_iitb_ac_in/EmwTlpzi5yxNsbR58JPiJtUBMmhg0yT6QlzPki8_tZjC1A?e=VQKHFX
+Video recording of explaination is available here https://iitbacin-my.sharepoint.com/:v:/g/personal/23m1062_iitb_ac_in/EaFpWNuLmXlMmzzwGaKholAB0aQbbtCqVLwyjyoWlo0nCQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=DWraQF
